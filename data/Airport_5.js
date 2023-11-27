@@ -1,0 +1,1 @@
+var json_Airport_5 = {"type":"FeatureCollection","name":"Airport_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name_EN":"Bole International Airport","Contact":" 011 665 2222"},"geometry":{"type":"Point","coordinates":[38.79317494,8.98030645]}}]}
